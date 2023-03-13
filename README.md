@@ -14,7 +14,7 @@
 | [4ku](https://github.com/kz04px/4ku) | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | 2690 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the TCEC's 4K tournament: https://wiki.chessdom.org/TCEC_4k_Rules |
 | [Svart](https://github.com/crippa1337/svart) | [Crippa](https://github.com/crippa1337) | ~2400 | Written in Rust! |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | est. 1200-2100 | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... It's greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!) |
-| [Mess](https://github.com/raklaptudirm/mess) | [Rak Laptudirm](https://github.com/raklaptudirm) | ??? | Written in Go! |
+| [Mess](https://github.com/raklaptudirm/mess) | [Rak Laptudirm](https://github.com/raklaptudirm) | ~2500 | Written in Go! |
 | [Willow](https://github.com/Adam-Kulju/Willow) | [Adam Kulju](https://github.com/Adam-Kulju) | ??? | Hung a queen in its second-ever tournament game! |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | ??? | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
 ### Ataxx Engines
