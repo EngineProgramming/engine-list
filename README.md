@@ -2,8 +2,8 @@
 ### Chess Engines
 | Engine Name | Author | CCRL 40/15 | Notes |
 |-------------|--------|------|----------|
-| [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3420 | Very strong C++ engine, still doesn't have a proper name!! |
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3406 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
+| [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3300 | Very strong C++ engine, still doesn't have a proper name!! |
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3311 | Supports FRC & uses self-generated NNUE data. |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3307 | Very strong NNUE implementation. |
 | [Alexandria](https://github.com/PGG106/Alexandria) 3.5.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3261 | Strong C engine with VICE ancestry. |
