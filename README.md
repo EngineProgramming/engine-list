@@ -17,3 +17,9 @@
 | [Mess](https://github.com/raklaptudirm/mess) | [Rak Laptudirm](https://github.com/raklaptudirm) | ??? | Written in Go! |
 | [Willow](https://github.com/Adam-Kulju/Willow) | [Adam Kulju](https://github.com/Adam-Kulju) | ??? | Hung a queen in its second-ever tournament game! |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | ??? | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
+### Ataxx Engines
+TBW
+### Misc. Engines
+| Engine Name | Author | Game | Notes |
+|-------------|--------|------|----------|
+| [bashtet](https://github.com/analog-hors/bashtet) | [Analog Hors](https://github.com/analog-hors) | Tetris | A bash script that plays Tetris. |
