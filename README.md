@@ -3,9 +3,9 @@
 | Engine Name | Author | CCRL 40/15 | Notes |
 |-------------|--------|------|----------|
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3406 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
+| [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | Very strong C++ engine, still doesn't have a proper name!! |
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3311 | Supports FRC & uses self-generated NNUE data. |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3307 | Very strong NNUE implementation. |
-| [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3300 | Very strong C++ engine, still doesn't have a proper name!! |
 | [Alexandria](https://github.com/PGG106/Alexandria) 3.5.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3261 | Strong C engine with VICE ancestry. |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 7.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) |3246 | Includes the Lichess Elite Database in his NNUE training data, considered a very aggressive engine by the [EAS Ratinglist](https://www.sp-cc.de/eas-ratinglist.html). |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3226 | NNUE chess engine that never had an HCE, learned to play chess from zero knowledge. |
