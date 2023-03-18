@@ -19,8 +19,8 @@
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 1.0.0 | [Antares](https://github.com/Alex2262) | 2409 | 10x12 mailbox C++ engine. |
 | [Svart](https://github.com/crippa1337/svart) 2 | [Crippa](https://github.com/crippa1337) | ~2400 | Written in Rust! |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.5.11 | [Adam Kulju](https://github.com/Adam-Kulju) | ~2400 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
+| [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Renegade](https://github.com/pkrisz99/Renegade) 0.8.1 | [Krisz](https://github.com/pkrisz99) | ~2200 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
-| [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | ~2200 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Midnight](https://github.com/archishou/MidnightChessEngine) v2 | [archi](https://github.com/archishou) | 1935 | "it be an engine" - archi |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk V | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | est. 1200-2100 | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... It's greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!) |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | ??? | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
