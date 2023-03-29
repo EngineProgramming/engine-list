@@ -16,6 +16,7 @@
 | [4ku](https://github.com/kz04px/4ku) 2.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | 2690 | 2758 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the TCEC's 4K tournament: https://wiki.chessdom.org/TCEC_4k_Rules |
 | [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.1 | [Algorhythm](https://github.com/Algorhythm-sxv) | ~2550 | 2472 | A Rust HCE engine! |
 | [Mess](https://github.com/raklaptudirm/mess) 0.1.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | ~2500 | 2503 | Written in Go! |
+| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.30 | [Sazgr](https://github.com/Sazgr) | 2474 | 2569 | A C++ engine with simple evaluation which sucks at LTC. |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 1.0.0 | [Antares](https://github.com/Alex2262) | 2409 | * | 10x12 mailbox C++ engine. |
 | [Svart](https://github.com/crippa1337/svart) 2 | [Crippa](https://github.com/crippa1337) | ~2400 | 2464 | Written in Rust! |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.5.11 | [Adam Kulju](https://github.com/Adam-Kulju) | ~2400 | 2424 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
