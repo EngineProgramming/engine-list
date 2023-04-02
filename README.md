@@ -18,10 +18,10 @@
 | [Mess](https://github.com/raklaptudirm/mess) 0.1.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | ~2500 | 2503 | Written in Go! |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.1.1 | [JacquesRW](https://github.com/JacquesRW/akimbo) | 2477 | * | Small engine written in Rust. |
 | [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.30 | [Sazgr](https://github.com/Sazgr) | 2474 | 2569 | A C++ engine with simple evaluation which sucks at LTC. |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.3.0 | [Ciekce](https://github.com/Ciekce) | ~2400 | 2518 | "author has a catboy as pfp" ~ crippa |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 1.0.0 | [Antares](https://github.com/Alex2262) | 2409 | * | 10x12 mailbox C++ engine. |
 | [Svart](https://github.com/crippa1337/svart) 2 | [Crippa](https://github.com/crippa1337) | ~2400 | 2464 | Written in Rust! |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.5.11 | [Adam Kulju](https://github.com/Adam-Kulju) | ~2400 | 2424 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.2.0 | [Ciekce](https://github.com/Ciekce) | ~2300 | 2337 | "author has a catboy as pfp" ~ crippa |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | 2263 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Renegade](https://github.com/pkrisz99/Renegade) 0.9.0 | [Krisz](https://github.com/pkrisz99) | ~2200 | 2246 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
 | [Midnight](https://github.com/archishou/MidnightChessEngine) v2 | [archi](https://github.com/archishou) | 1935 | * | "it be an engine" - archi |
