@@ -2,7 +2,9 @@
 ### Chess Engines
 
 "*" ratings indicate a missing rating from the rating lists.
+
 "~" prefix indicates that a rating is merely approximate.
+
 "↓" prefix indicates that the rating was obtained with an older release of the engine.
 
 All ratings are from single-CPU lists.
