@@ -1,8 +1,9 @@
 ## The Engine Programming Server's List of Game-Playing Engines
 ### Chess Engines
-Ratings prefixed by an "↓" indicate a rating from a previous version of the engine when rating lists aren't updated.
 
 "*" ratings indicate a missing rating from the rating lists.
+"~" prefix indicates that a rating is merely approximate.
+"↓" prefix indicates that the rating was obtained with an older release of the engine.
 
 All ratings are from single-CPU lists.
 | Engine Name | Author | CCRL 40/15 | CCRL Blitz | Notes |
