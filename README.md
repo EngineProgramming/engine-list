@@ -43,4 +43,4 @@ TBW
 
 # Contributing
 * Engines are sorted in descending order of their CCRL 40/15 rating.
-* Do not assume ratings if there is a previous one set in an earlier version, prefix it with an "↓" instead.
+* If you are updating the version-number of an existing engine, but you lack a rating for it, prefix the earlier rating with an "↓".
