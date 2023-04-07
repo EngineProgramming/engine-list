@@ -33,8 +33,8 @@ All ratings are from single-CPU lists.
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 2.0.0 | [Antares](https://github.com/Alex2262) | 2409 | * | 10x12 mailbox C++ engine. |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | 2263 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Renegade](https://github.com/pkrisz99/Renegade) 0.9.0 | [Krisz](https://github.com/pkrisz99) | ~2200 | 2246 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
-| [Midnight](https://github.com/archishou/MidnightChessEngine) v2 | [archi](https://github.com/archishou) | 1935 | * | "it be an engine" - archi |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 7 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | ↓~1952 | * | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... It's greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!) |
+| [Midnight](https://github.com/archishou/MidnightChessEngine) v2 | [archi](https://github.com/archishou) | 1935 | * | "it be an engine" - archi |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | * | * | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
 | [π Chess](https://www.dropbox.com/sh/tfiwhx900g4ni42/AAC5FPUjZZi1fr8TW-PEE52ja/%CF%80%20Chess.zip?dl=0) | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | * | A port of Tom7's Elo World's π engine. |
 ### Ataxx Engines
