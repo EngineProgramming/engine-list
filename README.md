@@ -21,15 +21,15 @@ All ratings are from single-CPU lists.
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3211 | 3314 | Another very strong HCE engine. [Doesn't support tablebases.](http://talkchess.com/forum3/viewtopic.php?f=2&t=76927#p888045) |
 | [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3189 | ↓2922 | Written in C#! |
 | [Drofa](https://github.com/justNo4b/Drofa) 3.3.22 | [No4b](https://github.com/justNo4b) | 3182 | 3245 | Drofa started as fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
+| [Svart](https://github.com/crippa1337/svart) 3 | [Crippa](https://github.com/crippa1337) | ~2811 | 2886 | Written in Rust! |
 | [ice4](https://github.com/MinusKelvin/ice4) TCEC S24 Swiss | [MinusKelvin](https://github.com/MinusKelvin) & [Analog Hors](https://github.com/analog-hors) | ~2800 | * | ice4 is a chess engine which fits in 4096 bytes. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [4ku](https://github.com/kz04px/4ku) 2.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | 2690 | 2758 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
-| [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.2.2 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2646 | 2656 | A Rust HCE engine! |
-| [Willow](https://github.com/Adam-Kulju/Willow) 2.6 | [Adam Kulju](https://github.com/Adam-Kulju) | 2586 | ↓2424 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.4.1 | [Ciekce](https://github.com/Ciekce) | ~2675 | ↓2514 | "author has a catboy as pfp" ~ crippa |
+| [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.2.2 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2649 | 2654 | A Rust HCE engine! |
+| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.30 | [Sazgr](https://github.com/Sazgr) | 2607 | 2647 | A C++ engine with simple evaluation which sucks at LTC. |
+| [Willow](https://github.com/Adam-Kulju/Willow) 2.6 | [Adam Kulju](https://github.com/Adam-Kulju) | 2574 | ↓2415 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
 | [Mess](https://github.com/raklaptudirm/mess) 0.1.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2491 | 2488 | Written in Go! |
-| [Svart](https://github.com/crippa1337/svart) 2 | [Crippa](https://github.com/crippa1337) | 2472 | 2461 | Written in Rust! |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.1.1 | [JacquesRW](https://github.com/JacquesRW/akimbo) | 2471 | * | Small engine written in Rust. |
-| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.30 | [Sazgr](https://github.com/Sazgr) | ↓2474 | 2569 | A C++ engine with simple evaluation which sucks at LTC. |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.3.0 | [Ciekce](https://github.com/Ciekce) | ~2400 | 2518 | "author has a catboy as pfp" ~ crippa |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 2.0.0 | [Antares](https://github.com/Alex2262) | 2409 | * | 10x12 mailbox C++ engine. |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | 2263 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Renegade](https://github.com/pkrisz99/Renegade) 0.9.0 | [Krisz](https://github.com/pkrisz99) | ~2200 | 2246 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
@@ -47,4 +47,6 @@ TBW
 
 # Contributing
 * Engines are sorted in descending order of their CCRL 40/15 rating.
-* If you are updating the version-number of an existing engine, but you lack a rating for it, prefix the earlier rating with an "↓".
+* If you are:
+    * Updating the version-number of an existing engine, but you lack a rating for it, prefix the earlier rating with an "↓".
+    * Updating/adding an engine and the error margins of a rating is >30, prefix the rating with an "~".
