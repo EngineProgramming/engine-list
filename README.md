@@ -47,4 +47,6 @@ TBW
 
 # Contributing
 * Engines are sorted in descending order of their CCRL 40/15 rating.
-* If you are updating the version-number of an existing engine, but you lack a rating for it, prefix the earlier rating with an "↓".
+* If you are:
+    * Updating the version-number of an existing engine, but you lack a rating for it, prefix the earlier rating with an "↓".
+    * Updating/adding an engine and the error margins of a rating is >30, prefix the rating with an "~".
