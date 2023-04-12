@@ -37,13 +37,17 @@ All ratings are from single-CPU lists.
 | [Midnight](https://github.com/archishou/MidnightChessEngine) v2 | [archi](https://github.com/archishou) | 1935 | * | "it be an engine" - archi |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | * | * | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
 | [π Chess](https://www.dropbox.com/sh/tfiwhx900g4ni42/AAC5FPUjZZi1fr8TW-PEE52ja/%CF%80%20Chess.zip?dl=0) | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | * | A port of Tom7's Elo World's π engine. |
+| [Dog](https://github.com/folkertvanheusden/dog) | [Folkert van Heusden](https://vanheusden.com/) | * | * | runs on pcs and on the esp32 microcontroller |
 ### Ataxx Engines
-TBW
+| Engine Name | Author | Notes |
+|-------------|--------|-----------|
+| [Scarletxx](https://github.com/folkertvanheusden/Scarletxx) | [Folkert van Heusden](https://vanheusden.com/) | |
 ### GGPs & Other Game Engines
 | Engine Name | Author | Game | Notes |
 |-------------|--------|------|----------|
 | [Ampersand](https://github.com/chesstastic-org/Ampersand) | [Corman](https://github.com/Cormanz/) | GGP (Fairy Chess) | Ampersand is a fairy chess engine powered by the monster-chess move generation library. It currently isn't functional. |
 | [bashtet](https://github.com/analog-hors/bashtet) | [Analog Hors](https://github.com/analog-hors) | Tetris | A bash script that plays Tetris. |
+| [Della Baduck](https://github.com/folkertvanheusden/dellabaduck) | [Folkert van Heusden](https://vanheusden.com/) | Go | |
 
 # Contributing
 * Engines are sorted in descending order of their CCRL 40/15 rating.
