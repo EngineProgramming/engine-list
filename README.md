@@ -21,6 +21,7 @@ All ratings are from single-CPU lists.
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3210 | 3430 | A very strong VICE descendant, and one of the strongest HCE engines. |
 | [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3188 | ↓2922 | Written in C#! |
 | [Drofa](https://github.com/justNo4b/Drofa) 3.3.22 | [No4b](https://github.com/justNo4b) | 3182 | 3245 | Drofa started as fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
+| [Rice](https://github.com/rafid-dev/rice) 5.0.0 | [Rafid](https://github.com/rafid-dev) | 3149 | * | Written in C++ |
 | [Svart](https://github.com/crippa1337/svart) 3 | [Crippa](https://github.com/crippa1337) | ~2811 | 2886 | Written in Rust! |
 | [ice4](https://github.com/MinusKelvin/ice4) TCEC S24 Swiss | [MinusKelvin](https://github.com/MinusKelvin) & [Analog Hors](https://github.com/analog-hors) | ~2800 | * | ice4 is a chess engine which fits in 4096 bytes. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [4ku](https://github.com/kz04px/4ku) 2.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | 2690 | 2758 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
@@ -29,7 +30,6 @@ All ratings are from single-CPU lists.
 | [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.30 | [Sazgr](https://github.com/Sazgr) | 2607 | 2647 | A C++ engine with simple evaluation which sucks at LTC. |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.6 | [Adam Kulju](https://github.com/Adam-Kulju) | 2574 | ↓2415 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
 | [Mess](https://github.com/raklaptudirm/mess) 0.1.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2491 | 2488 | Written in Go! |
-| [Rice](https://github.com/rafid-dev/rice) 5.0.0 | [Rafid](https://github.com/rafid-dev) | 3149 | * | Written in C++ |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.1.1 | [JacquesRW](https://github.com/JacquesRW/akimbo) | 2471 | * | Small engine written in Rust. |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 2.0.0 | [Antares](https://github.com/Alex2262) | 2409 | * | 10x12 mailbox C++ engine. |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | 2263 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
