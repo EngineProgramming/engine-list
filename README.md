@@ -30,7 +30,7 @@ All ratings are from single-CPU lists, last updated 2023-05-06.
 | [4ku](https://github.com/kz04px/4ku) 3.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | ↓2692 | ↓2756 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.6.0 | [Ciekce](https://github.com/Ciekce) | ↓2675 | ↓2746 | "author has a catboy as pfp" ~ crippa |
 | [Mess](https://github.com/raklaptudirm/mess) 0.2.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2717 | ↓2484 | Written in Go! |
-| [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | ↓2330 | ↓2350 | TBD |
+| [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | ↓2330 | ↓2350 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.7 | [Adam Kulju](https://github.com/Adam-Kulju) | 2685 | 2675 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
 | [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.40 | [Sazgr](https://github.com/Sazgr) | 2684 | 2714 | A C++ engine with simple evaluation which sucks at LTC. |
 | [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.2.2 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2649 | 2655 | A Rust HCE engine! |
