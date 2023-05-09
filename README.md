@@ -7,8 +7,8 @@
 
 "↓" prefix indicates that the rating was obtained with an older release of the engine.
 
-All ratings are from single-CPU lists, last updated 2023-05-06.
-| Engine Name | Author | CCRL 40/15 | CCRL Blitz | Notes |
+All ratings are from single-CPU lists, last updated 2023-05-09.
+| Engine Name | Author | [CCRL 40/15](https://www.computerchess.org.uk/ccrl/4040/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list) | [CCRL Blitz](https://www.computerchess.org.uk/ccrl/404/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list) | Notes |
 |-------------|--------|------|------|----------|
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3406 | 3544 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
 | [Clover](https://github.com/lucametehau/CloverEngine) 4.0 | [lucametehau](https://github.com/lucametehau) | 3396 | 3535 | Plant. |
@@ -28,7 +28,7 @@ All ratings are from single-CPU lists, last updated 2023-05-06.
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 2.0.0 | [Antares](https://github.com/Alex2262) | 2805 | 2874 | 10x12 mailbox C++ engine. |
 | [ice4](https://github.com/MinusKelvin/ice4) TCEC S24 Swiss | [MinusKelvin](https://github.com/MinusKelvin) & [Analog Hors](https://github.com/analog-hors) | ~2800 | * | ice4 is a chess engine which fits in 4096 bytes. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [4ku](https://github.com/kz04px/4ku) 3.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | ↓2692 | ↓2756 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.6.0 | [Ciekce](https://github.com/Ciekce) | ↓2675 | ↓2746 | "author has a catboy as pfp" ~ crippa |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | ↓2675 | ↓2746 | "author has a catboy as pfp" ~ crippa |
 | [Mess](https://github.com/raklaptudirm/mess) 0.2.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2717 | ↓2484 | Written in Go! |
 | [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | ↓2330 | ↓2350 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.7 | [Adam Kulju](https://github.com/Adam-Kulju) | 2685 | 2675 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
@@ -41,6 +41,15 @@ All ratings are from single-CPU lists, last updated 2023-05-06.
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | * | * | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
 | [π Chess](https://www.dropbox.com/sh/tfiwhx900g4ni42/AAC5FPUjZZi1fr8TW-PEE52ja/%CF%80%20Chess.zip?dl=0) | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | * | A port of Tom7's Elo World's π engine. |
 | [Dog](https://github.com/folkertvanheusden/dog) | [Folkert van Heusden](https://vanheusden.com/) | * | * | runs on pcs and on the esp32 microcontroller |
+### Chess960 Engines
+See above for notes.
+| Engine Name | Author | [CCRL 40/2 FRC](https://www.computerchess.org.uk/ccrl/404FRC/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list) |
+|-------------|--------|---------------|
+| [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3536 |
+| [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3496 |
+| [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3375 |
+| [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3358 |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | 2742 |
 ### Ataxx Engines
 | Engine Name | Author | Notes |
 |-------------|--------|-----------|
@@ -53,7 +62,7 @@ All ratings are from single-CPU lists, last updated 2023-05-06.
 | [Della Baduck](https://github.com/folkertvanheusden/dellabaduck) | [Folkert van Heusden](https://vanheusden.com/) | Go | |
 
 # Contributing
-* Engines are sorted in descending order of their CCRL 40/15 rating.
+* Engines are sorted in descending order of their CCRL 40/15 rating, or their CCRL 40/2 FRC rating for Chess960.
 * If you are:
     * Updating the version-number of an existing engine, but you lack a rating for it, prefix the earlier rating with an "↓".
     * Updating/adding an engine and the error margins of a rating is >30, prefix the rating with an "~".
