@@ -8,7 +8,7 @@
 "↓" prefix indicates that the rating was obtained with an older release of the engine.
 
 All ratings are from single-CPU lists, last updated 2023-05-09.
-| Engine Name | Author | CCRL 40/15 | CCRL Blitz | Notes |
+| Engine Name | Author | [CCRL 40/15](https://www.computerchess.org.uk/ccrl/4040/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list) | [CCRL Blitz](https://www.computerchess.org.uk/ccrl/404/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list) | Notes |
 |-------------|--------|------|------|----------|
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3406 | 3544 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
 | [Clover](https://github.com/lucametehau/CloverEngine) 4.0 | [lucametehau](https://github.com/lucametehau) | 3396 | 3535 | Plant. |
@@ -43,7 +43,7 @@ All ratings are from single-CPU lists, last updated 2023-05-09.
 | [Dog](https://github.com/folkertvanheusden/dog) | [Folkert van Heusden](https://vanheusden.com/) | * | * | runs on pcs and on the esp32 microcontroller |
 ### Chess960 Engines
 See above for notes.
-| Engine Name | Author | CCRL 40/2 FRC |
+| Engine Name | Author | [CCRL 40/2 FRC](https://www.computerchess.org.uk/ccrl/404FRC/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list) |
 |-------------|--------|---------------|
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3536 |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3496 |
