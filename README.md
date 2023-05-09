@@ -28,7 +28,7 @@ All ratings are from single-CPU lists, last updated 2023-05-09.
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 2.0.0 | [Antares](https://github.com/Alex2262) | 2805 | 2874 | 10x12 mailbox C++ engine. |
 | [ice4](https://github.com/MinusKelvin/ice4) TCEC S24 Swiss | [MinusKelvin](https://github.com/MinusKelvin) & [Analog Hors](https://github.com/analog-hors) | ~2800 | * | ice4 is a chess engine which fits in 4096 bytes. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [4ku](https://github.com/kz04px/4ku) 3.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | ↓2692 | ↓2756 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.6.0 | [Ciekce](https://github.com/Ciekce) | ↓2675 | ↓2746 | "author has a catboy as pfp" ~ crippa |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | ↓2675 | ↓2746 | "author has a catboy as pfp" ~ crippa |
 | [Mess](https://github.com/raklaptudirm/mess) 0.2.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2717 | ↓2484 | Written in Go! |
 | [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | ↓2330 | ↓2350 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.7 | [Adam Kulju](https://github.com/Adam-Kulju) | 2685 | 2675 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
@@ -49,7 +49,7 @@ See above for notes.
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3496 |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3375 |
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3358 |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.6.0 | [Ciekce](https://github.com/Ciekce) | 2742 |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | 2742 |
 ### Ataxx Engines
 | Engine Name | Author | Notes |
 |-------------|--------|-----------|
