@@ -15,7 +15,7 @@ All ratings are from single-CPU lists, last updated 2023-05-09.
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3314 | 3430 | Very strong NNUE implementation. |
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3308 | 3432 | Supports FRC & uses self-generated NNUE data. |
-| [Viridithas](https://github.com/cosmobobak/viridithas) 9.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ↓3303 | ↓3406 | Includes the Lichess Elite Database in his NNUE training data, considered a very aggressive engine by the [EAS Ratinglist](https://www.sp-cc.de/eas-ratinglist.html). |
+| [Viridithas](https://github.com/cosmobobak/viridithas) 9.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ↓3303 | ↓3406 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
 | [Alexandria](https://github.com/PGG106/Alexandria) 3.5.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3257 | 3384 | Strong C engine with VICE ancestry. |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3222 | 3366 | NNUE chess engine that never had an HCE, learned to play chess from zero knowledge. |
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3213 | 3313 | Another very strong HCE engine. [Doesn't support tablebases.](http://talkchess.com/forum3/viewtopic.php?f=2&t=76927#p888045) |
