@@ -13,9 +13,9 @@ All ratings are from single-CPU lists, last updated 2023-05-14.
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3405 | 3544 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
 | [Clover](https://github.com/lucametehau/CloverEngine) 4.0 | [lucametehau](https://github.com/lucametehau) | 3393 | 3537 | Plant. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
+| [Viridithas](https://github.com/cosmobobak/viridithas) 9.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ↓3303 | 3480 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3314 | 3430 | Very strong NNUE implementation. |
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3308 | 3432 | Supports FRC & uses self-generated NNUE data. |
-| [Viridithas](https://github.com/cosmobobak/viridithas) 9.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ↓3303 | 3480 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
 | [Alexandria](https://github.com/PGG106/Alexandria) 3.5.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3257 | 3385 | Strong C engine with VICE ancestry. |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3222 | 3367 | NNUE chess engine that never had an HCE, learned to play chess from zero knowledge. |
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3213 | 3313 | Another very strong HCE engine. [Doesn't support tablebases.](http://talkchess.com/forum3/viewtopic.php?f=2&t=76927#p888045) |
@@ -37,10 +37,11 @@ All ratings are from single-CPU lists, last updated 2023-05-14.
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.2.0 | [JacquesRW](https://github.com/JacquesRW/akimbo) | 2520 | * | Small engine written in Rust. |
 | [Renegade](https://github.com/pkrisz99/Renegade) 0.10.0 | [Krisz](https://github.com/pkrisz99) | ~2450 | 2494 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | 2250 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
-| [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 7 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | ↓~1952 | * | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
+| [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 8 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | ↓~1952 | * | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | * | * | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
-| [π Chess](https://www.dropbox.com/sh/tfiwhx900g4ni42/AAC5FPUjZZi1fr8TW-PEE52ja/%CF%80%20Chess.zip?dl=0) | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | * | A port of Tom7's Elo World's π engine. |
 | [Dog](https://github.com/folkertvanheusden/dog) | [Folkert van Heusden](https://vanheusden.com/) | * | * | Runs on PCs and the ESP32 microcontroller. |
+| [ℇuler Chess](https://www.dropbox.com/s/66nxcvl2knqg4s4/%E2%84%87uler%20Chess.zip?dl=0) | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | * | A port of Tom7's Elo World's ℇ engine. Despite the differing search algorithm, is still better than other mathematical constant engines. |
+| [π Chess](https://www.dropbox.com/sh/tfiwhx900g4ni42/AAC5FPUjZZi1fr8TW-PEE52ja/%CF%80%20Chess.zip?dl=0) | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | * | A port of Tom7's Elo World's π engine. |
 
 ### Chess960 Engines
 See above for notes.
