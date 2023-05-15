@@ -11,7 +11,7 @@ All ratings are from single-CPU lists, last updated 2023-05-14.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|------|------|----------|
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3405 | 3544 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
-| [Clover](https://github.com/lucametehau/CloverEngine) 4.0 | [lucametehau](https://github.com/lucametehau) | 3393 | 3537 | Plant. |
+| [Clover](https://github.com/lucametehau/CloverEngine) 4.1 | [lucametehau](https://github.com/lucametehau) | ↓3393 | ↓3537 | Plant. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 9.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ↓3303 | 3480 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3314 | 3430 | Very strong NNUE implementation. |
@@ -36,6 +36,7 @@ All ratings are from single-CPU lists, last updated 2023-05-14.
 | [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.2.2 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2648 | 2656 | A Rust HCE engine! |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.2.0 | [JacquesRW](https://github.com/JacquesRW/akimbo) | 2520 | * | Small engine written in Rust. |
 | [Renegade](https://github.com/pkrisz99/Renegade) 0.10.0 | [Krisz](https://github.com/pkrisz99) | ~2450 | 2494 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
+| [Pedantic](https://github.com/JoAnnP38/Pedantic) 0.2.1 | [JoAnnP38](https://github.com/JoAnnP38) | ~2444 | 2472 | Written in C#! |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | 2250 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 8 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | ↓~1952 | * | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | * | * | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
@@ -63,6 +64,7 @@ See above for notes.
 |-------------|--------|------|----------|
 | [Ampersand](https://github.com/chesstastic-org/Ampersand) | [Corman](https://github.com/Cormanz/) | GGP (Fairy Chess) | Ampersand is a fairy chess engine powered by the monster-chess move generation library. It currently isn't functional. |
 | [bashtet](https://github.com/analog-hors/bashtet) | [Analog Hors](https://github.com/analog-hors) | Tetris | A bash script that plays Tetris. |
+| [Cold Clear](https://github.com/MinusKelvin/cold-clear) | [MinusKelvin](https://github.com/MinusKelvin) | Tetris | The strongest Tetris engine as of the last time anyone bothered to check. |
 | [Della Baduck](https://github.com/folkertvanheusden/dellabaduck) | [Folkert van Heusden](https://vanheusden.com/) | Go | |
 
 # Contributing
