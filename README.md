@@ -10,34 +10,35 @@
 All ratings are from single-CPU lists, last updated 2023-05-14.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|------|------|----------|
-| [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3405 | 3544 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
-| [Clover](https://github.com/lucametehau/CloverEngine) 4.1 | [lucametehau](https://github.com/lucametehau) | ↓3393 | ↓3537 | Plant. |
+| [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3406 | 3543 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
+| [Clover](https://github.com/lucametehau/CloverEngine) 4.1 | [lucametehau](https://github.com/lucametehau) | ↓3392 | ↓3538 | Plant. |
+| [Viridithas](https://github.com/cosmobobak/viridithas) 9.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3357 | 3484 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
-| [Viridithas](https://github.com/cosmobobak/viridithas) 9.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ↓3303 | 3480 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
-| [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3314 | 3430 | Very strong NNUE implementation. |
-| [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3308 | 3432 | Supports FRC & uses self-generated NNUE data. |
-| [Alexandria](https://github.com/PGG106/Alexandria) 3.5.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3257 | 3385 | Strong C engine with VICE ancestry. |
+| [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3314 | 3429 | Very strong NNUE implementation. |
+| [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3309 | 3433 | Supports FRC & uses self-generated NNUE data. |
+| [Alexandria](https://github.com/PGG106/Alexandria) 3.5.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3259 | 3384 | Strong C engine with VICE ancestry. |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3222 | 3367 | NNUE chess engine that never had an HCE, learned to play chess from zero knowledge. |
-| [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3213 | 3313 | Another very strong HCE engine. [Doesn't support tablebases.](http://talkchess.com/forum3/viewtopic.php?f=2&t=76927#p888045) |
+| [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3214 | 3314 | Another very strong HCE engine. [Doesn't support tablebases.](http://talkchess.com/forum3/viewtopic.php?f=2&t=76927#p888045) |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3209 | 3316 | A very strong VICE descendant, and one of the strongest HCE engines. |
-| [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3188 | ↓2928 | Written in C#! |
-| [Drofa](https://github.com/justNo4b/Drofa) 3.3.22 | [No4b](https://github.com/justNo4b) | 3180 | 3241 | Drofa started as fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
+| [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3189 | ↓2932 | Written in C#! |
+| [Drofa](https://github.com/justNo4b/Drofa) 3.3.22 | [No4b](https://github.com/justNo4b) | 3181 | 3243 | Drofa started as fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
 | [Rice](https://github.com/rafid-dev/rice) 6.0.0 | [Rafid](https://github.com/rafid-dev) | ↓3131 | * | Written in C++ |
-| [Svart](https://github.com/crippa1337/svart) 4 | [Crippa](https://github.com/crippa1337) | 3032 | 3138 | Written in Rust! |
-| [Midnight](https://github.com/archishou/MidnightChessEngine) 6 | [archi](https://github.com/archishou) | ~2900 | 3055 | "it be an engine" - archi |
-| [Altair](https://github.com/Alex2262/AltairChessEngine) 2.0.0 | [Antares](https://github.com/Alex2262) | 2804 | 2874 | 10x12 mailbox C++ engine. |
+| [Svart](https://github.com/crippa1337/svart) 4 | [Crippa](https://github.com/crippa1337) | 3036 | 3138 | Written in Rust! |
+| [Midnight](https://github.com/archishou/MidnightChessEngine) 6 | [archi](https://github.com/archishou) | 2919 | 3055 | "it be an engine" - archi |
+| [Willow](https://github.com/Adam-Kulju/Willow) 2.8 | [Adam Kulju](https://github.com/Adam-Kulju) | ~2833 | 2870 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
+| [Altair](https://github.com/Alex2262/AltairChessEngine) 2.0.0 | [Antares](https://github.com/Alex2262) | 2807 | 28775| 10x12 mailbox C++ engine. |
 | [ice4](https://github.com/MinusKelvin/ice4) v3 | [MinusKelvin](https://github.com/MinusKelvin) & [Analog Hors](https://github.com/analog-hors) | ~2800 | * | ice4 is a chess engine which fits in 4096 bytes. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
-| [4ku](https://github.com/kz04px/4ku) 3.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | ~2800 | 2921 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
-| [Willow](https://github.com/Adam-Kulju/Willow) 2.8 | [Adam Kulju](https://github.com/Adam-Kulju) | ↓2685 | 2873 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | ~2750 | 2857 | "author has a catboy as pfp" ~ crippa |
-| [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | ~2750 | ↓2349 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
-| [Mess](https://github.com/raklaptudirm/mess) 0.2.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2716 | ↓2479 | Written in Go! |
-| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.40 | [Sazgr](https://github.com/Sazgr) | 2693 | 2731 | A C++ engine with simple evaluation which sucks at LTC. |
-| [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.2.2 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2648 | 2656 | A Rust HCE engine! |
-| [Akimbo](https://github.com/JacquesRW/akimbo) 0.2.0 | [JacquesRW](https://github.com/JacquesRW/akimbo) | 2520 | * | Small engine written in Rust. |
-| [Renegade](https://github.com/pkrisz99/Renegade) 0.10.0 | [Krisz](https://github.com/pkrisz99) | ~2450 | 2494 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
-| [Pedantic](https://github.com/JoAnnP38/Pedantic) 0.2.1 | [JoAnnP38](https://github.com/JoAnnP38) | ~2444 | 2472 | Written in C#! |
-| [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2207 | 2250 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
+| [4ku](https://github.com/kz04px/4ku) 3.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | ~2800 | 2915 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | ~2750 | 2882 | "author has a catboy as pfp" ~ crippa |
+| [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | ~2750 | ↓2350 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
+| [Mess](https://github.com/raklaptudirm/mess) 0.2.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2717 | ↓2480 | Written in Go! |
+| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.40 | [Sazgr](https://github.com/Sazgr) | 2696 | 2732 | A C++ engine with simple evaluation which sucks at LTC. |
+| [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.2.2 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2650 | 2656 | A Rust HCE engine! |
+| [Akimbo](https://github.com/JacquesRW/akimbo) 0.3.0 | [JacquesRW](https://github.com/JacquesRW/akimbo) | ↓2521 | * | Small engine written in Rust. |
+| [Renegade](https://github.com/pkrisz99/Renegade) 0.10.0 | [Krisz](https://github.com/pkrisz99) | 2508 | 2494 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
+| [Pedantic](https://github.com/JoAnnP38/Pedantic) 0.2.1 | [JoAnnP38](https://github.com/JoAnnP38) | 2442 | 2472 | Written in C#! |
+| [Princhess](https://github.com/princesslana/princhess) 0.11.0 | [princesslana](https://github.com/princesslana) | ↓2406 | ↓2507 | CPU-only MCTS engine in Rust! |
+| [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2208 | 2251 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 8 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | ↓~1952 | * | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
 | [Honse](https://github.com/EngineProgramming/honse) | [The Engine Programming Discord](https://discord.com/invite/YctB2p4) | * | * | A public didactic engine open for anyone in the server to contribute to. Rust, Alpha-Beta, classical evaluation, maybe NNUE in the future. |
 | [Dog](https://github.com/folkertvanheusden/dog) | [Folkert van Heusden](https://vanheusden.com/) | * | * | Runs on PCs and the ESP32 microcontroller. |
@@ -48,11 +49,12 @@ All ratings are from single-CPU lists, last updated 2023-05-14.
 See above for notes.
 | Engine Name | Author | [CCRL 40/2 FRC][ccrl-frc] |
 |-------------|--------|---------------|
-| [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3536 |
-| [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3496 |
-| [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3375 |
-| [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3358 |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | 2742 |
+| [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3538 |
+| [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3497 |
+| [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3376 |
+| [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3359 |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | 2745 |
+| [Princhess](https://github.com/princesslana/princhess) 0.11.0 | [princesslana](https://github.com/princesslana) | ↓2189 |
 
 ### Ataxx Engines
 | Engine Name | Author | Notes |
