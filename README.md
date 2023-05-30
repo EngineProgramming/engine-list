@@ -51,7 +51,7 @@ See above for notes.
 |-------------|--------|---------------|
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3538 |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3497 |
-| [Viridithas](https://github.com/cosmobobak/viridithas) 6.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ~3470 |
+| [Viridithas](https://github.com/cosmobobak/viridithas) 9.1.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ~3470 |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3376 |
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3359 |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | 2745 |
