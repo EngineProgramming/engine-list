@@ -1,4 +1,4 @@
-## The Engine Programming Server's List of Game-Playing Engines
+## The [Engine Programming Server][discord-invite]'s List of Game-Playing Engines
 ### Chess Engines
 
 "*" ratings indicate a missing rating from the rating lists.
@@ -76,6 +76,7 @@ See above for notes.
     * Updating the version-number of an existing engine, but you lack a rating for it, prefix the earlier rating with an "↓".
     * Updating/adding an engine and the error margins of a rating is >30, prefix the rating with an "~".
 
+[discord-invite]:https://discord.com/invite/F6W6mMsTGN
 [ccrl-blitz]:https://www.computerchess.org.uk/ccrl/404/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list
 [ccrl-4015]:https://www.computerchess.org.uk/ccrl/4040/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list
 [ccrl-frc]:https://www.computerchess.org.uk/ccrl/404FRC/cgi/compare_engines.cgi?class=Single-CPU+engines&only_best_in_class=on&num_best_in_class=1&print=Rating+list
