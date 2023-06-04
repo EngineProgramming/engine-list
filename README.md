@@ -54,7 +54,7 @@ See above for notes.
 | [Viridithas](https://github.com/cosmobobak/viridithas) 9.1.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ~3470 |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3374 |
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3358 |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.6.1 | [Ciekce](https://github.com/Ciekce) | ↓2745 |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.7.0 | [Ciekce](https://github.com/Ciekce) | ↓2745 |
 | [Princhess](https://github.com/princesslana/princhess) 0.11.0 | [princesslana](https://github.com/princesslana) | ↓2188 |
 
 ### Ataxx Engines
