@@ -10,7 +10,7 @@
 All ratings are from single-CPU lists, last updated 2023-06-10.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|------|------|----------|
-| [Seer](https://github.com/connormcmonigle/seer-nnue) 2.60 | [Connor McMonigle](https://github.com/connormcmonigle) | 3405 | 3543 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
+| [Seer](https://github.com/connormcmonigle/seer-nnue) 2.6.0 | [Connor McMonigle](https://github.com/connormcmonigle) | 3405 | 3543 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
 | [Clover](https://github.com/lucametehau/CloverEngine) 4.1 | [lucametehau](https://github.com/lucametehau) | 3397 | ~3540 | Plant. |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 9.1.0 | [Cosmo Bobak](https://github.com/cosmobobak) | ~3384 | ↓3484 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
