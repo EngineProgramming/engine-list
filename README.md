@@ -21,12 +21,12 @@ All ratings are from single-CPU lists, last updated 2023-06-17.
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3221 | 3366 | NNUE chess engine that never had an HCE, learned to play chess from zero knowledge. |
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3214 | 3312 | Another very strong HCE engine. [Doesn't support tablebases.](http://talkchess.com/forum3/viewtopic.php?f=2&t=76927#p888045) |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3207 | 3315 | A very strong VICE descendant, and one of the strongest HCE engines. |
-| [Svart](https://github.com/crippa1337/svart) 5 | [Crippa](https://github.com/crippa1337) | 3188 | 3261 | Written in Rust! |
 | [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3190 | ↓2933 | Written in C#! |
+| [Svart](https://github.com/crippa1337/svart) 5 | [Crippa](https://github.com/crippa1337) | 3188 | 3261 | Written in Rust! |
 | [Drofa](https://github.com/justNo4b/Drofa) 4.0.0 | [No4b](https://github.com/justNo4b) | 3179 | 3228 | Drofa started as fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 3.0.0 | [Antares](https://github.com/Alex2262) | 3005 | 3010 | 10x12 mailbox C++ engine. |
 | [Midnight](https://github.com/archishou/MidnightChessEngine) 6 | [archi](https://github.com/archishou) | 2929 | 3055 | "it be an engine" - archi |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.7.0 | [Ciekce](https://github.com/Ciekce) | ~2929 | 2954 | "author has a catboy as pfp" ~ crippa<br />C++ HCE engine that does not care about king safety! |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.7.0 | [Ciekce](https://github.com/Ciekce) | ~2929 | 2954 | "author has a catboy as pfp" ~ crippa<br />C++20 HCE engine that does not care about king safety! |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.8 | [Adam Kulju](https://github.com/Adam-Kulju) | 2852 | 2868 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
 | [4ku](https://github.com/kz04px/4ku) 3.0 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | 2810 | 2918 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [Mess](https://github.com/raklaptudirm/mess) 0.3.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2771 | 2817 | Written in Go! |
