@@ -11,6 +11,7 @@ All ratings are from single-CPU lists, last updated 2023-06-17.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|------|------|----------|
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.6.0 | [Connor McMonigle](https://github.com/connormcmonigle) | 3404 | 3542 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
+| [Caissa](https://github.com/Witek902/Caissa) 1.9 | [Witek902](https://github.com/Witek902) | ~3397 | 3519 | Written in C++! |
 | [Clover](https://github.com/lucametehau/CloverEngine) 4.1 | [lucametehau](https://github.com/lucametehau) | 3395 | 3548 | Plant. |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 9.1.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3387 | ↓3483 | Includes the Lichess Elite Database in his NNUE training data, the strongest UK chess engine & the strongest Rust chess engine. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
@@ -45,6 +46,7 @@ All ratings are from single-CPU lists, last updated 2023-06-17.
 See above for notes.
 | Engine Name | Author | [CCRL 40/2 FRC][ccrl-frc] |
 |-------------|--------|---------------|
+| [Caissa](https://github.com/Witek902/Caissa) 1.9 | [Witek902](https://github.com/Witek902) | 3745 |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 9.1.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3574 |
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3537 |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3494 |
