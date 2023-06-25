@@ -52,7 +52,7 @@ See above for notes.
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3493 |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3373 |
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3357 |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.7.0 | [Ciekce](https://github.com/Ciekce) | ↓2839 |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.8.0 | [Ciekce](https://github.com/Ciekce) | ↓2839 |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.3.0 | [JacquesRW](https://github.com/JacquesRW) | ↓2313 |
 | [Princhess](https://github.com/princesslana/princhess) 0.11.0 | [princesslana](https://github.com/princesslana) | ↓2188 |
 
