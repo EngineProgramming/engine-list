@@ -26,19 +26,19 @@ All ratings are from single-CPU lists, last updated 2023-06-17.
 | [Drofa](https://github.com/justNo4b/Drofa) 4.0.0 | [No4b](https://github.com/justNo4b) | ↓3180 | ↓3246 | Drofa started as fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
 | [Svart](https://github.com/crippa1337/svart) 5 | [Crippa](https://github.com/crippa1337) | 3178 | 3261 | Written in Rust! |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 3.0.0 | [Antares](https://github.com/Alex2262) | 3004 | 3011 | 10x12 mailbox C++ engine. |
-| [Midnight](https://github.com/archishou/MidnightChessEngine) 6 | [archi](https://github.com/archishou) | 2928 | 3055 | "it be an engine" - archi |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.8.0 | [Ciekce](https://github.com/Ciekce) | ↓2929 | ↓2954 | "author has a catboy as pfp" ~ crippa<br />C++20 HCE engine that does not care about king safety! |
+| [Midnight](https://github.com/archishou/MidnightChessEngine) 6 | [archi](https://github.com/archishou) | 2928 | 3055 | "it be an engine" - archi |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.9 | [Adam Kulju](https://github.com/Adam-Kulju) | ↓2850 | ↓2867 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
 | [4ku](https://github.com/kz04px/4ku) 3.1 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | ↓2810 | ↓2919 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [Mess](https://github.com/raklaptudirm/mess) 0.3.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2773 | 2819 | Written in Go! |
+| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.50 | [Sazgr](https://github.com/Sazgr) | 2763 | 2819 | A C++ engine with simple evaluation which sucks at LTC. |
 | [ice4](https://github.com/MinusKelvin/ice4) v3.1 | [MinusKelvin](https://github.com/MinusKelvin) & [Analog Hors](https://github.com/analog-hors) | ↓2751 | * | ice4 is a chess engine which fits in 4096 bytes. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | 2744 | 2777 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
-| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.50 | [Sazgr](https://github.com/Sazgr) | 2763 | 2819 | A C++ engine with simple evaluation which sucks at LTC. |
+| [Pedantic](https://github.com/JoAnnP38/Pedantic) 0.3.1 | [JoAnnP38](https://github.com/JoAnnP38) | 2738 | ↓2748 | Written in C#! |
 | [Renegade](https://github.com/pkrisz99/Renegade) 0.11.0 | [Krisz](https://github.com/pkrisz99) | 2692 | 2725 | A chess engine written in C++ using Visual Studio 2019. It values readability and simplicity. |
 | [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.2.2 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2645 | 2656 | A Rust HCE engine! |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.3.0 | [JacquesRW](https://github.com/JacquesRW) | 2586 | * | Small engine written in Rust. |
 | [Princhess](https://github.com/princesslana/princhess) 0.11.0 | [princesslana](https://github.com/princesslana) | 2480 | 2617 | CPU-only MCTS engine in Rust! |
-| [Pedantic](https://github.com/JoAnnP38/Pedantic) 0.3.1 | [JoAnnP38](https://github.com/JoAnnP38) | 2738 | ↓2748 | Written in C#! |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2208 | 2254 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 8 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | 1045 | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
 
