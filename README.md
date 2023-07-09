@@ -7,7 +7,7 @@
 
 "↓" prefix indicates that the rating was obtained with an older release of the engine.
 
-All ratings are from single-CPU lists, last updated 2023-06-25.
+All ratings are from single-CPU lists, last updated 2023-07-09.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|------|------|----------|
 | [Clover](https://github.com/lucametehau/CloverEngine) 5.0 | [lucametehau](https://github.com/lucametehau) | 3408 | 3569 | Plant. |
