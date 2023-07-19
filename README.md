@@ -29,7 +29,7 @@ All ratings are from single-CPU lists, last updated 2023-07-17.
 | [Nalwald](https://gitlab.com/tsoj/Nalwald) 17.1 | [tsoj](https://gitlab.com/tsoj/Nalwald) | 3140 | ↓3194 | Written in Nim! |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 4.0.0 | [Antares](https://github.com/Alex2262) | ↓3002 | ↓3012 | 10x12 mailbox C++ engine. |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.8.1 | [Ciekce](https://github.com/Ciekce) | 2987 | 3061 | "author has a catboy as pfp" ~ crippa<br />C++20 HCE engine that does not care about king safety! |
-| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.60 | [Sazgr](https://github.com/Sazgr) | ~2970 | 3058 | A C++ engine with simple evaluation which sucks at LTC. |
+| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.60 | [Sazgr](https://github.com/Sazgr) | ~2970 | 3058 | A C++ engine which formerly had simple evaluation, still sucks at LTC, and has 2.19999999 in its code. |
 | [Midnight](https://github.com/archishou/MidnightChessEngine) 6 | [archi](https://github.com/archishou) | 2927 | 3049 | "it be an engine" - archi |
 | [Willow](https://github.com/Adam-Kulju/Willow) 2.9 | [Adam Kulju](https://github.com/Adam-Kulju) | 2956 | 2997 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.4.0 | [JacquesRW](https://github.com/JacquesRW) | ~2890 | * | Small engine written in Rust. |
