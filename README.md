@@ -26,7 +26,7 @@ All ratings are from single-CPU lists, last updated 2023-07-17.
 | [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3189 | ↓2933 | Written in C#! |
 | [Svart](https://github.com/crippa1337/svart) 5 | [Crippa](https://github.com/crippa1337) | 3180 | 3261 | Written in Rust! |
 | [Drofa](https://github.com/justNo4b/Drofa) 4.0.0 | [No4b](https://github.com/justNo4b) | 3179 | 3227 | Drofa started as a fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
-| [Nalwald](https://gitlab.com/tsoj/Nalwald) 17.1 | [tsoj](https://gitlab.com/tsoj/Nalwald) | 3140 | ↓3194 | Written in Nim! |
+| [Nalwald](https://gitlab.com/tsoj/Nalwald) 17.1 | [tsoj](https://gitlab.com/tsoj) | 3140 | ↓3194 | Alpha-beta engine with BAE, written in Nim. |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 4.0.0 | [Antares](https://github.com/Alex2262) | ↓3002 | ↓3012 | 10x12 mailbox C++ engine. |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.8.1 | [Ciekce](https://github.com/Ciekce) | 2987 | 3061 | "author has a catboy as pfp" ~ crippa<br />C++20 HCE engine that does not care about king safety! |
 | [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.60 | [Sazgr](https://github.com/Sazgr) | ~2970 | 3058 | A C++ engine which formerly had simple evaluation, still sucks at LTC, and has 2.19999999 in its code. |
