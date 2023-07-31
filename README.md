@@ -66,6 +66,7 @@ See above for notes.
 | Engine Name | Author | Notes |
 |-------------|--------|-----------|
 | [Scarletxx](https://github.com/folkertvanheusden/Scarletxx) | [Folkert van Heusden](https://vanheusden.com/) | |
+| [kZero](https://github.com/KarelPeeters/kZero) | [Karel Peeters](https://github.com/KarelPeeters) | (see below) |
 
 ### GGPs & Other Game Engines
 | Engine Name | Author | Game | Notes |
@@ -74,6 +75,7 @@ See above for notes.
 | [bashtet](https://github.com/analog-hors/bashtet) | [Analog Hors](https://github.com/analog-hors) | Tetris | A bash script that plays Tetris. |
 | [Cold Clear](https://github.com/MinusKelvin/cold-clear) | [MinusKelvin](https://github.com/MinusKelvin) | Tetris | The strongest Tetris engine as of the last time anyone bothered to check. |
 | [Della Baduck](https://github.com/folkertvanheusden/dellabaduck) | [Folkert van Heusden](https://vanheusden.com/) | Go | |
+| [kZero](https://github.com/KarelPeeters/kZero) | [Karel Peeters](https://github.com/KarelPeeters) | Chess, Go, Ataxx | An AlphaZero implementation in Rust and Python. Easily adaptable to different games. |
 
 # Contributing
 * Engines are sorted in descending order of their CCRL 40/15 rating, or their CCRL 40/2 FRC rating for Chess960.
