@@ -25,7 +25,7 @@ All ratings are from single-CPU lists, last updated 2023-08-02.
 | [Stash](https://gitlab.com/mhouppin/stash-bot) 34.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3213 | 3310 | Another very strong HCE engine. [Doesn't support tablebases.](http://talkchess.com/forum3/viewtopic.php?f=2&t=76927#p888045) |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3208 | 3316 | A very strong VICE descendant, and one of the strongest HCE engines. |
 | [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3189 | ↓2933 | Written in C#! |
-| [Willow](https://github.com/Adam-Kulju/Willow) 3.0 | [Adam Kulju](https://github.com/Adam-Kulju) | ↓2956 | 3245 | Hung a queen in its second-ever tournament game! Has a very aggressive, freewheeling style of play. |
+| [Willow](https://github.com/Adam-Kulju/Willow) 3.0 | [Adam Kulju](https://github.com/Adam-Kulju) | ↓2956 | 3245 | The world's strongest mailbox engine. It features a net that is trained on games with intentional mistakes, to increase strength and foster an aggressive style of play... or that's the hope, at least. |
 | [Drofa](https://github.com/justNo4b/Drofa) 4.0.0 | [No4b](https://github.com/justNo4b) | 3180 | 3230 | Drofa started as a fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
 | [Svart](https://github.com/crippa1337/svart) 5 | [Crippa](https://github.com/crippa1337) | 3178 | 3258 | Written in Rust! |
 | [Nalwald](https://gitlab.com/tsoj/Nalwald) 17.1 | [tsoj](https://gitlab.com/tsoj) | 3143 | ↓3194 | Alpha-beta engine with BAE, written in Nim. |
