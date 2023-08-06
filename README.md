@@ -7,7 +7,7 @@
 
 "↓" prefix indicates that the rating was obtained with an older release of the engine.
 
-All ratings are from single-CPU lists, last updated 2023-08-02.
+All ratings are from single-CPU lists, last updated 2023-08-05.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|------|------|----------|
 | [Caissa](https://github.com/Witek902/Caissa) 1.11 | [Witek902](https://github.com/Witek902) | 3422 | 3563 | Written in C++! |
