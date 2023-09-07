@@ -14,8 +14,8 @@ All ratings are from single-CPU lists, last updated 2023-09-07.
 | [Caissa](https://github.com/Witek902/Caissa) 1.12 | [Witek902](https://github.com/Witek902) | ↓3410 | ↓3570 | Written in C++! |
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.6.0 | [Connor McMonigle](https://github.com/connormcmonigle) | 3401 | 3546 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 10.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3383 | 3527 | The strongest UK chess engine and in the running for the strongest Rust chess engine (curse you Black Marlin!!). |
-| [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
 | [Alexandria](https://github.com/PGG106/Alexandria) 4.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3351 | 3503 | Strong C engine with VICE ancestry. |
+| [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
 | [Rice](https://github.com/rafid-dev/rice) 7.0.0 | [Rafid](https://github.com/rafid-dev) | 3327 | 3472 | Written in C++ |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3309 | 3427 | Very strong NNUE implementation. |
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3305 | 3434 | Supports FRC & uses self-generated NNUE data. |
@@ -34,6 +34,7 @@ All ratings are from single-CPU lists, last updated 2023-09-07.
 | [Midnight](https://github.com/archishou/MidnightChessEngine) v7 | [archi](https://github.com/archishou) | 3012 | 3113 | "it be an engine" - archi |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.8.1 | [Ciekce](https://github.com/Ciekce) | 2984 | 3058 | "author has a catboy as pfp" ~ crippa<br />C++20 HCE engine that does not care about king safety! |
 | [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.71 | [Sazgr](https://github.com/Sazgr) | ↓2977 | 3096 | A C++ engine which formerly had simple evaluation, still sucks at LTC, and has 2.19999999 in its code. |
+| [Wahoo](https://github.com/spamdrew128/Wahoo) 4.0.0 | [Spamdrew](https://github.com/spamdrew128) | ↓2863 | 3068 | A superhuman chess engine designed to surpass [Apotheosis](https://github.com/spamdrew128/Apotheosis). |
 | [4ku](https://github.com/kz04px/4ku) 3.1 | [kz04px](https://github.com/kz04px), [Gedas](https://github.com/GediminasMasaitis), [Gian-Carlo Pascutto](https://github.com/gcp), and [others](https://github.com/kz04px/4ku/graphs/contributors) | ↓2808 | ↓2919 | A UCI chess engine in 4 kB. The 4ku-mini script contains compressed C++ source code, that is extracted and compiled before being run. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [ice4](https://github.com/MinusKelvin/ice4) v3.1 | [MinusKelvin](https://github.com/MinusKelvin) & [Analog Hors](https://github.com/analog-hors) | ↓2755 | * | ice4 is a chess engine which fits in 4096 bytes. Written to take part in the [TCEC's 4K tournament](https://wiki.chessdom.org/TCEC_4k_Rules) |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.5.0 | [JacquesRW](https://github.com/JacquesRW) | ↓2724 | 3069 | Small engine written in Rust. |
