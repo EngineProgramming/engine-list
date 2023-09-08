@@ -14,7 +14,6 @@ All ratings are from single-CPU lists, last updated 2023-09-07.
 | [Caissa](https://github.com/Witek902/Caissa) 1.12 | [Witek902](https://github.com/Witek902) | ↓3410 | ↓3570 | Written in C++! |
 | [Seer](https://github.com/connormcmonigle/seer-nnue) 2.6.0 | [Connor McMonigle](https://github.com/connormcmonigle) | 3401 | 3546 | Very strong engine, with NNUE trained via retrograde learning on tablebase positions. |
 | [Viridithas](https://github.com/cosmobobak/viridithas) 10.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3383 | 3527 | The strongest UK chess engine and in the running for the strongest Rust chess engine (curse you Black Marlin!!). |
-| [Alexandria](https://github.com/PGG106/Alexandria) 4.0 | [Zuppa D. Cipolle](https://github.com/PGG106) | 3351 | 3503 | Strong C engine with VICE ancestry. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 3.99 | [Gedas](https://github.com/GediminasMasaitis) | ~3350 | * | Very strong C++ engine, still doesn't have a proper name!! |
 | [Rice](https://github.com/rafid-dev/rice) 7.0.0 | [Rafid](https://github.com/rafid-dev) | 3327 | 3472 | Written in C++ |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3309 | 3427 | Very strong NNUE implementation. |
