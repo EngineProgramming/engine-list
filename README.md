@@ -61,6 +61,7 @@ See above for notes.
 | [Drofa](https://github.com/justNo4b/Drofa) 4.0.0 | [No4b](https://github.com/justNo4b) | 3259 |
 | [Nalwald](https://gitlab.com/tsoj/Nalwald) 18 | [tsoj](https://gitlab.com/tsoj/Nalwald) | 3144 |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 4.0.0 | [Antares](https://github.com/Alex2262) | 3076 |
+| [Peacekeeper](https://github.com/Sazgr/peacekeeper) 1.71 | [Sazgr](https://github.com/Sazgr) | 2989 |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.8.1 | [Ciekce](https://github.com/Ciekce) | 2972 |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.3.0 | [JacquesRW](https://github.com/JacquesRW) | ↓2313 |
 | [Princhess](https://github.com/princesslana/princhess) 0.12.0 | [princesslana](https://github.com/princesslana) | ↓2189 |
