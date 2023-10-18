@@ -22,6 +22,7 @@ All ratings are from single-CPU lists, last updated 2023-10-09.
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3306 | 3438 | Supports FRC & uses self-generated NNUE data. |
 | [Midnight](https://github.com/archishou/MidnightChessEngine) v8 | [archi](https://github.com/archishou) | ~3290 | 3386 | "it be an engine" - archi |
 | [StockDory](https://github.com/TheBlackPlague/StockDory) Starfish 0.1 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3286 | 3383 | C++ rewrite of StockNemo. |
+| [Avalanche](https://github.com/SnowballSH/Avalanche) 2.0.0 | [Yinuo Huang](https://github.com/SnowballSH) | ~3273 | ↓3245 | Strongest engine written in Zig. From China. Prioritizes bad captures over quiets... |
 | [Willow](https://github.com/Adam-Kulju/Willow) 3.1 | [Adam Kulju](https://github.com/Adam-Kulju) | ~3240 | ↓3246 | The world's strongest mailbox engine. It features a net that is trained on games with intentional mistakes, to increase strength and foster an aggressive style of play... or that's the hope, at least. |
 | [Akimbo](https://github.com/JacquesRW/akimbo) 0.6.0 | [JacquesRW](https://github.com/JacquesRW) | ~3230 | ↓3067 | Small engine written in Rust. |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3219 | 3367 | NNUE chess engine that never had an HCE, learned to play chess from zero knowledge. |
