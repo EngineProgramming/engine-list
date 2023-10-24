@@ -7,7 +7,7 @@
 
 "↓" prefix indicates that the rating was obtained with an older release of the engine.
 
-All ratings are from single-CPU lists, last updated 2023-10-23.
+All ratings are from single-CPU lists, last updated 2023-10-24.
 | Engine Name | Author | [CCRL 40/15][ccrl-4015] | [CCRL Blitz][ccrl-blitz] | Notes |
 |-------------|--------|------|------|----------|
 | [Caissa](https://github.com/Witek902/Caissa) 1.13.1 | [Witek902](https://github.com/Witek902) | 3430 | ~3580 | Written in C++! |
@@ -33,6 +33,7 @@ All ratings are from single-CPU lists, last updated 2023-10-23.
 | [StockNemo](https://github.com/TheBlackPlague/StockNemo) Stingray 5.7.0.0 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3189 | 3274 | Written in C#! |
 | [Svart](https://github.com/crippa1337/svart) 6 | [Crippa](https://github.com/crippa1337) | 3183 | 3254 | Written in Rust! |
 | [Drofa](https://github.com/justNo4b/Drofa) 4.0.0 | [No4b](https://github.com/justNo4b) | 3178 | 3235 | Drofa started as a fork of the Shallow Blue chess engine - it's now much stronger, and is among the strong HCE engines. |
+| [z5](https://github.com/zzzzz151/z5) 2.1 | [zzzzz](https://github.com/zzzzz151) | ↓~3160 | ↓3242 | Another C++ engine |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 5.0.0 | [Antares](https://github.com/Alex2262) | ~3100 | 3203 | 10x12 mailbox C++ engine. |
 | [Wahoo](https://github.com/spamdrew128/Wahoo) 4.0.0 | [Spamdrew](https://github.com/spamdrew128) | 3014 | 3089 | A superhuman chess engine designed to surpass [Apotheosis](https://github.com/spamdrew128/Apotheosis). |
 | [Polaris](https://github.com/Ciekce/Polaris) 1.8.1 | [Ciekce](https://github.com/Ciekce) | 2986 | 3065 | "author has a catboy as pfp" ~ crippa<br />C++20 HCE engine that does not care about king safety! |
@@ -52,14 +53,14 @@ All ratings are from single-CPU lists, last updated 2023-10-23.
 See above for notes.
 | Engine Name | Author | [CCRL 40/2 FRC][ccrl-frc] |
 |-------------|--------|---------------|
-| [Caissa](https://github.com/Witek902/Caissa) 1.13.1 | [Witek902](https://github.com/Witek902) | 3838 |
+| [Caissa](https://github.com/Witek902/Caissa) 1.13.1 | [Witek902](https://github.com/Witek902) | 3840 |
 | [Clover](https://github.com/lucametehau/CloverEngine) 6.0 | [lucametehau](https://github.com/lucametehau) | 3822 |
-| [Viridithas](https://github.com/cosmobobak/viridithas) 11.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3723 |
+| [Viridithas](https://github.com/cosmobobak/viridithas) 11.0.0 | [Cosmo Bobak](https://github.com/cosmobobak) | 3727 |
 | [Stormphrax](https://github.com/Ciekce/Stormphrax) 2.0.0 | [Ciekce](https://github.com/Ciekce) | 3639 |
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3543 |
 | [Frozenight](https://github.com/MinusKelvin/frozenight) 6.0.0 | [MinusKelvin](https://github.com/MinusKelvin) | 3502 |
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0 | [Terje](https://github.com/TerjeKir) | 3374 |
-| [Stash](https://gitlab.com/mhouppin/stash-bot) 35.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | 3358 |
+| [Stash](https://gitlab.com/mhouppin/stash-bot) 35.0 | [Morgan Houppin](https://gitlab.com/mhouppin) | ↓3358 |
 | [Drofa](https://github.com/justNo4b/Drofa) 4.0.0 | [No4b](https://github.com/justNo4b) | 3259 |
 | [Nalwald](https://gitlab.com/tsoj/Nalwald) 18 | [tsoj](https://gitlab.com/tsoj/Nalwald) | 3144 |
 | [Altair](https://github.com/Alex2262/AltairChessEngine) 5.0.0 | [Antares](https://github.com/Alex2262) | ↓3075 |
