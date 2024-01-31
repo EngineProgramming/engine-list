@@ -17,7 +17,7 @@ All ratings are from single-CPU lists, last updated 2024-01-31.
 | [Stormphrax](https://github.com/Ciekce/Stormphrax) 4.0.0 | [Ciekce](https://github.com/Ciekce) | 3472 | 3566 | The second strongest UK chess engine. Successor to Polaris; another NNUE engine that learnt to evaluate from zero knowledge. |
 | [Carp](https://github.com/dede1751/carp) 3.0.1 | [dede1751](https://github.com/dede1751) | 3456 | 3534 | Written in Rust! |
 | [akimbo](https://github.com/jw1912/akimbo) 0.8.0 | [jw1912](https://github.com/jw1912) | 3431 | 3544 | Small engine written in Rust. |
-| [Altair](https://github.com/Alex2262/AltairChessEngine) 6.0.0 | [Antares](https://github.com/Alex2262) | 3427 | 3523 | 10x12 mailbox C++ engine. |
+| [Altair](https://github.com/Alex2262/AltairChessEngine) 6.0.0 | [Antares](https://github.com/Alex2262) | 3427 | 3523 | Star. |
 | [Starzix](https://github.com/zzzzz151/z5) 3.0 | [zzzzz](https://github.com/zzzzz151) | 3415 | 3514 | Another C++ engine |
 | [Rice](https://github.com/rafid-dev/rice) 7.0.0 | [Rafid](https://github.com/rafid-dev) | 3401 | 3490 | Written in C++ |
 | [Peacekeeper](https://github.com/Sazgr/peacekeeper) 2.20 | [Sazgr](https://github.com/Sazgr) | 3386 | 3470 | A C++ engine which formerly had simple evaluation, still sucks at LTC, and has 2.19999999 in its code. |
@@ -47,7 +47,7 @@ All ratings are from single-CPU lists, last updated 2024-01-31.
 | [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.3.0 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2866 | 2843 | A Rust HCE engine! |
 | [Mess](https://github.com/raklaptudirm/mess) 0.3.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2774 | 2782 | Written in Go! |
 | [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | 2763 | 2747 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
-| [Sirius](https://github.com/Mcthouacbb/Sirius) 5.0 | [Mcthouacbb](https://github.com/Mcthouacbb) | 2680 | * | I will beat pesto |
+| [Sirius](https://github.com/Mcthouacbb/Sirius) 5.0 | [Mcthouacbb](https://github.com/Mcthouacbb) | 2680 | * | I will beat pesto. |
 | [Lynx](https://github.com/lynx-chess/Lynx) 1.2.0 | [eduherminio](https://github.com/eduherminio) | 2584 | ↓2429 | Written in C#! |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2154 | 2171 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 8 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | 860 | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
