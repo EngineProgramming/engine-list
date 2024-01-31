@@ -47,6 +47,7 @@ All ratings are from single-CPU lists, last updated 2024-01-31.
 | [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.3.0 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2866 | 2843 | A Rust HCE engine! |
 | [Mess](https://github.com/raklaptudirm/mess) 0.3.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2774 | 2782 | Written in Go! |
 | [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | 2763 | 2747 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
+| [Sirius](https://github.com/Mcthouacbb/Sirius) 5.0 | [Mcthouacbb](https://github.com/Mcthouacbb) | 2680 | * | I will beat pesto |
 | [Lynx](https://github.com/lynx-chess/Lynx) 1.2.0 | [eduherminio](https://github.com/eduherminio) | 2584 | ↓2429 | Written in C#! |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2154 | 2171 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 8 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | 860 | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
