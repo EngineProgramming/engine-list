@@ -24,6 +24,7 @@ All ratings are from single-CPU lists, last updated 2024-01-31.
 | [Smallbrain](https://github.com/Disservin/Smallbrain) 7.0.0 | [Disservin](https://github.com/Disservin) | 3379 | 3458 | Supports FRC & uses self-generated NNUE data. |
 | [chess.cpp](https://github.com/GediminasMasaitis/chess-dot-cpp) 4.0 | [Gedas](https://github.com/GediminasMasaitis) | 3378 | * | Very strong C++ engine, still doesn't have a proper name!! |
 | [BlackCore](https://github.com/SzilBalazs/BlackCore) 6.0 | [Szil](https://github.com/SzilBalazs) | 3376 | 3447 | Very strong NNUE implementation. |
+| [Clarity](https://github.com/Vast342/Clarity) 4.1.0 | [Vast](https://github.com/Vast342) | 3375 | ↓3448 | Qsearch history go brrrrrr |
 | [StockDory](https://github.com/TheBlackPlague/StockDory) Starfish 0.1 | [Shaheryar Sohail](https://github.com/TheBlackPlague) | 3350 | 3401 | C++ rewrite of StockNemo. |
 | [Willow](https://github.com/Adam-Kulju/Willow) 3.1 | [Adam Kulju](https://github.com/Adam-Kulju) | 3340 | 3394 | The world's strongest mailbox engine. It features a net that is trained on games with intentional mistakes, to increase strength and foster an aggressive style of play... or that's the hope, at least. |
 | [Avalanche](https://github.com/SnowballSH/Avalanche) 2.1.0 | [Yinuo Huang](https://github.com/SnowballSH) | 3322 | 3399 | Strongest engine written in Zig. From China. Prioritizes bad captures over quiets... |
@@ -46,6 +47,7 @@ All ratings are from single-CPU lists, last updated 2024-01-31.
 | [Cheers](https://github.com/Algorhythm-sxv/Cheers) 0.3.0 | [Algorhythm](https://github.com/Algorhythm-sxv) | 2866 | 2843 | A Rust HCE engine! |
 | [Mess](https://github.com/raklaptudirm/mess) 0.3.0 | [Rak Laptudirm](https://github.com/raklaptudirm) | 2774 | 2782 | Written in Go! |
 | [Apotheosis](https://github.com/spamdrew128/Apotheosis) 4.0.1 | [Spamdrew](https://github.com/spamdrew128) | 2763 | 2747 | Apotheosis is a blunder-prone silly lil guy that sometimes plays cool chess. |
+| [Lynx](https://github.com/lynx-chess/Lynx) 1.2.0 | [eduherminio](https://github.com/eduherminio) | 2584 | ↓2429 | Written in C#! |
 | [Baislicka](https://github.com/kz04px/Baislicka) 1.0 | [kz04px](https://github.com/kz04px) | 2154 | 2171 | A chess engine written in C. Uses bitboards with fixed shift fancy movegen. |
 | [Valiant](https://www.dropbox.com/sh/tfiwhx900g4ni42/AABEm29llAn1MaG8D6yW8ZO7a?dl=0) Mk 8 | [Enderjed](https://www.youtube.com/channel/UC1lxAkP5jGVBUIWdz3WIhSg) | * | 860 | Mk V has a startup sound, Mk 3.2 "Archer" has reversed piece square tables, Mk 2 "Valentine" barely cares about king safety, Mk2 and Mk3's sources are lost to time... Its greatest anomaly is being able to consistently beat BBC 1.4 (with Stockfish NNUE!). The 3rd strongest python engine. |
 
