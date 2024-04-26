@@ -86,6 +86,7 @@ See above for notes.
 | [Monty](https://github.com/jw1912/monty)         | [jw1912](https://github.com/jw1912)             | (see below)                      |
 | [Sanctaphraxx](https://github.com/Ciekce/sanctaphraxx) | [Ciekce](https://github.com/Ciekce) | C++20 alpha/beta searcher based on Stormphrax and trained from zero knowledge. |
 | [Zataxx](https://github.com/zzzzz151/Zataxx) | [zzzzz](https://github.com/zzzzz151) |  |
+| [Moonbird](https://github.com/tsoj/Moonbird) | [tsoj](https://github.com/tsoj) |  |
 
 ### GGPs & Other Game Engines
 | Engine Name | Author | Game | Notes |
