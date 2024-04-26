@@ -71,8 +71,8 @@ See above for notes.
 | [Weiss](https://github.com/TerjeKir/weiss) 2.0                | [Terje](https://github.com/TerjeKir)            | 3398                      |
 | [Drofa](https://github.com/justNo4b/Drofa) 4.1.0              | [No4b](https://github.com/justNo4b)             | 3339                      |
 | [Nalwald](https://gitlab.com/tsoj/Nalwald) 18                 | [tsoj](https://gitlab.com/tsoj/Nalwald)         | 3151                      |
-| [Polaris](https://github.com/Ciekce/Polaris) 1.8.1            | [Ciekce](https://github.com/Ciekce)             | 2968                      |
 | [Monty](https://github.com/jw1912/monty) 0.1.0                | [jw1912](https://github.com/jw1912)             | 2988                      |
+| [Polaris](https://github.com/Ciekce/Polaris) 1.8.1            | [Ciekce](https://github.com/Ciekce)             | 2968                      |
 | [Princhess](https://github.com/princesslana/princhess) 0.16.0 | [princesslana](https://github.com/princesslana) | ↓2132                    |
 
 
